@@ -1,7 +1,7 @@
 
 ![](https://img.shields.io/badge/ReactJS-18.2.0-blue) ![](https://img.shields.io/badge/SASS-pink) 
 
-![](https://imgur.com/ESg6PFW)
+![](https://imgur.com/ESg6PFW.png)
 
 **Introduction:**A beautiful web design of a top restaurant
 
